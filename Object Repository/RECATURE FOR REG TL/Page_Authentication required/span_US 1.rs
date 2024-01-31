@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_US 1</name>
+   <tag></tag>
+   <elementGuidId>323f4bf3-04d4-4cad-a25f-a6f6f95f2a75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cvf_phone_cc_aui']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button-text.a-declarative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ccb02d9-e5bc-4b06-a757-5edbab6fec35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text a-declarative</value>
+      <webElementGuid>20a56393-972b-4d12-b495-4e6cd04e3cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-func-deps</name>
+      <type>Main</type>
+      <value>aui-da-a-dropdown-button</value>
+      <webElementGuid>cef6e1bf-a1cc-4619-b663-00b69415fada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-type</name>
+      <type>Main</type>
+      <value>widget</value>
+      <webElementGuid>ee3a2351-6c76-40ac-a306-7e9c626bb726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-interaction-events</name>
+      <type>Main</type>
+      <value>click</value>
+      <webElementGuid>c1c63cf2-2b73-4f1f-8f75-4a54e6465e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-dropdown-button</value>
+      <webElementGuid>760f4629-f298-43de-b28a-7d28746c9f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d556ccda-53e2-4b5d-9478-da9c2b896d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>        US +1
+</value>
+      <webElementGuid>20e7ccf3-b293-4bce-99d3-b0c183c55020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cvf_phone_cc_aui&quot;)/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]</value>
+      <webElementGuid>f275723a-1d00-467e-a1ed-d2a3d99fbb90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cvf_phone_cc_aui']/span/span</value>
+      <webElementGuid>0d7ecc1c-1c16-4432-be3c-b434a01ecbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New mobile number'])[1]/following::span[4]</value>
+      <webElementGuid>945ae539-fafb-431b-9716-fbeabfe4c2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To enhance your account security, add and verify your mobile number.'])[1]/following::span[4]</value>
+      <webElementGuid>eed5b73e-bd6c-4034-a0e9-a04791fd684c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conditions of Use'])[1]/preceding::span[8]</value>
+      <webElementGuid>16e1cb96-1228-4474-9052-5bdc98ed95a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>233cee28-e000-45ac-96f8-24bb5de58c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '        US +1
+' or . = '        US +1
+')]</value>
+      <webElementGuid>4ac2a13b-abe3-4b26-8c17-ec57fa9e4952</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
