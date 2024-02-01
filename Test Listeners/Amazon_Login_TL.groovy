@@ -1,4 +1,4 @@
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+/**import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -27,7 +27,7 @@ class Amazon_Login_TL {
 	 * Executes before every test case starts.
 	 * @param testCaseContext related information of the executed test case.
 	 */
-	@BeforeTestCase
+	/**@BeforeTestCase
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
 		WebUI.navigateToUrl('https://www.amazon.com/')
 	}
@@ -36,7 +36,7 @@ class Amazon_Login_TL {
 	 * Executes after every test case ends.
 	 * @param testCaseContext related information of the executed test case.
 	 */
-	@AfterTestCase
+	/*@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
 		WebUI.navigateToUrl('https://www.amazon.com/')
 	}
@@ -57,5 +57,5 @@ class Amazon_Login_TL {
 	@AfterTestSuite
 	def sampleAfterTestSuite(TestSuiteContext testSuiteContext) {
 		println testSuiteContext.getTestSuiteId()
-	}*/
-}
+	}
+}*/

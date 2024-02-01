@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Amazon_Pages/Amazon_Signin/Valid
 WebUI.click(findTestObject('Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Forgot your password_password'), 
-    '9JFooAukEDskz1iD1pcpuw==')
+    '9JFooAukEDvTa89YHkAC3w==')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Pages/Amazon_Signin/Valid credential/Page_Amazon Sign-In/input_Enter your password_signInSubmit'))
 

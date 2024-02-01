@@ -27,16 +27,16 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>2f101e9d-bc2a-49fe-af00-4a03b19c34c5</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>category</value>
-         <variableId>c6343201-d57f-4221-83f7-ff535d6c9939</variableId>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ac4ff74c-ce21-4c05-8c7a-8509a04e9c4f</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>2f101e9d-bc2a-49fe-af00-4a03b19c34c5</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Item</value>
-         <variableId>75ff7d6c-020d-4878-ad07-a93164c2ab93</variableId>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>967838b7-bc25-4cdb-abce-e8769f4c558c</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

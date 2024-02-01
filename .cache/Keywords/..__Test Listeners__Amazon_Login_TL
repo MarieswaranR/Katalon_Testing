@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "70AA7C84AB2692843D65C4F6E565516C",
+  "keywordFileContentHash": "361AE4F7DA8A5A8744B345BE99BC3B23",
   "keywordClasses": [
     {
       "name": "Amazon_Login_TL",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
